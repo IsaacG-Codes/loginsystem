@@ -4,14 +4,14 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
-    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="styles.css">
   </head>
 <body>
-    <header>
-      <nav class="nav-header-main">
-        <a class="header-logo" href="index.php">
-          <img src="img/logo.png" alt="logo">
-        </a>
+  <header>
+    <nav class="nav-header-main">
+      <a class="header-logo" href="index.php">
+        <img src="img/logo.png" alt="logo">
+      </a>
     <ul>
       <li><a href="index.php">Home</a></li>
       <li><a href="#">Portfolio</a></li>

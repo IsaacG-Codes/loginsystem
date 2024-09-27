@@ -11,6 +11,3 @@
     </div>
   </main>
 
-  <?php 
-  echo "hello";
-  ?>

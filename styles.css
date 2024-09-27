@@ -1,0 +1,15 @@
+p {
+    text-align:center;
+    font-size: 100px;
+    font-family: Arial;
+    margin: 10vh;
+}
+nav {
+    background: rgb(21, 70, 134);
+}
+.navbar-brand{
+    margin-right: 50vh;
+}
+.section-default{
+    margin:auto;
+}
