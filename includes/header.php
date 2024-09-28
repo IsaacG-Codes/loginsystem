@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
-    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="styles.css" >
   </head>
 <body>
   <header>
@@ -26,10 +26,11 @@
 
       </form>
       <a href="signup.php">Signup</a>
-      <form action="includes/login.inc.php" method="POST">
+      <form action="includes/signup.inc.php" method="POST">
         <button type="submit" name="logout-submit">Logout</button>
       </div>
     </nav>
   </header>
+
 </body>
 </html>
