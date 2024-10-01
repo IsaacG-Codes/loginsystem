@@ -1,7 +1,6 @@
 p {
     text-align:center;
     font-family: Arial;
-    margin: 10vh;
 }
 nav{
     background: rgb(21, 72, 191);
@@ -9,6 +8,9 @@ nav{
 .navbar-brand{
     margin-right: 50vh;
 }
-h1{
+.signupsuccess{
     color:green;
+}
+.signuperror{
+    color:red;
 }

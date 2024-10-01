@@ -42,7 +42,7 @@
                 mysqli_stmt_store_result($stmt);
                 $resultCheck = mysqli_stmt_num_rows($stmt);
                 if ($resultCheck > 0){
-                    header("Location: ../signup.php?error=usertaken&&mail=".$email);
+                    header("Location: ../signup.php?error=usertaken&mail=".$email);
                 exit();
                 }
                 else {
